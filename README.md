@@ -1,6 +1,7 @@
 
 
-<img width="2739" height="1531" alt="Screenshot 2026-03-03 192401" src="https://github.com/user-attachments/assets/7adf5eb7-b2e9-415c-a2cf-495c1c81f88c" />
+
+<img width="2715" height="1470" alt="phishing" src="https://github.com/user-attachments/assets/c5186af9-da5d-4bc4-840a-69e88b6663b7" />
 
 ```
 # 🛡️ Luxury-Phishing-PoC
@@ -52,6 +53,11 @@ Spear Phishing: Personalized attacks via WhatsApp/Email using the victim's name 
 SIM Swapping: Hijacking the victim's phone line by social engineering mobile carriers.
 
 OSINT Correlation: Finding other leaked credentials in public databases to compromise primary accounts.
+```
+
+![7ffebc79-a9fd-4cf2-8e26-c0230632fbde](https://github.com/user-attachments/assets/a1cf6dd8-0e23-4366-adba-9af22328d02b)
+
+
 
 🚀 How to Run the Demo
 Clone this repository: https://github.com/ahuttener/Luxury-Phishing-PoC
