@@ -3,6 +3,11 @@
 
 <img width="2715" height="1470" alt="phishing" src="https://github.com/user-attachments/assets/c5186af9-da5d-4bc4-840a-69e88b6663b7" />
 
+Does a premium design and a tempting offer make you lower your guard? 🛡️💻
+
+Experience the simulation here: 🌐 https://www.sonasauto.ie/ 
+How to test it: Click on the pulsing '0% APR' banner to see the interception in action! 🚨
+
 ```
 # 🛡️ Luxury-Phishing-PoC
 
